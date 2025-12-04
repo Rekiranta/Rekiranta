@@ -8,17 +8,17 @@
 
 ---
 
-## 🌸 About Me
+## 📘 About Me
 
 I am a **Junior Cloud and DevOps Engineer** and **IT Infrastructure student** from Helsinki, Finland. I am transitioning into IT after more than eight years in demanding and fast paced environments where I learned process optimization, quality control and teamwork.
 
 My focus is on **cloud platforms**, **DevOps practices** and **virtualized infrastructure**. I enjoy learning by building real projects and turning theoretical concepts into practical solutions.
 
-- 🌱 Currently studying **cloud services, virtualization and ICT infrastructure**
-- ☁️ Exploring **AWS**, **Google Cloud** and cloud native patterns
-- ⚙️ Practicing **DevOps, CI and CD, containers and automation**
-- 🧠 Strong interest in **infrastructure, APIs and data pipelines**
-- ⚡ Motto: _"Learning fast, building faster."_
+- 🌱 Currently studying cloud services, virtualization and ICT infrastructure  
+- ☁️ Exploring AWS, Google Cloud and cloud native patterns  
+- ⚙️ Practicing DevOps, CI and CD, containers and automation  
+- 🧠 Strong interest in infrastructure, APIs and data pipelines  
+- ⚡ Motto: *"Learning fast, building faster."*
 
 ---
 
