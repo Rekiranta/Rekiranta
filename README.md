@@ -8,7 +8,7 @@
 
 ---
 
-## 🌸 About Me
+## ⭐ About Me
 
 I am a **Junior Cloud and DevOps Engineer** and **IT Infrastructure student** from Helsinki, Finland. I am transitioning into IT after more than eight years in demanding and fast paced environments where I learned process optimization, quality control and teamwork.
 
