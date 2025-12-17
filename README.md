@@ -1,6 +1,6 @@
 <div align="center">
-  
-# Hi 👋, I'm Teemu Rekiranta
+
+# Hi, I'm Teemu Rekiranta
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Junior+Cloud+and+DevOps+Engineer;IT+Infrastructure+Student;Cloud+and+Infrastructure;Learning+fast%2C+building+faster)](https://git.io/typing-svg)
 
@@ -8,21 +8,21 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 
 I am a **Junior Cloud and DevOps Engineer** and **IT Infrastructure student** from Helsinki, Finland. I am transitioning into IT after more than eight years in demanding and fast paced environments where I learned process optimization, quality control and teamwork.
 
 My focus is on **cloud platforms**, **DevOps practices** and **virtualized infrastructure**. I enjoy learning by building real projects and turning theoretical concepts into practical solutions.
 
-- 🌱 Currently studying **cloud services, virtualization and ICT infrastructure**
-- ☁️ Exploring **AWS**, **Google Cloud** and cloud native patterns
-- ⚙️ Practicing **DevOps, CI and CD, containers and automation**
-- 🧠 Strong interest in **infrastructure, APIs and data pipelines**
-- ⚡ Motto: _"Learning fast, building faster."_
+- Currently studying **cloud services, virtualization and ICT infrastructure**
+- Exploring **AWS**, **Google Cloud** and cloud native patterns
+- Practicing **DevOps, CI and CD, containers and automation**
+- Strong interest in **infrastructure, APIs and data pipelines**
+- Motto: _"Learning fast, building faster."_
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Cloud Platforms                                                                                                              | CI/CD and Automation                                                                                                               | Containers and OS                                                                                                            | Databases and Analytics                                                                                          | Languages and Web                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -34,17 +34,17 @@ My focus is on **cloud platforms**, **DevOps practices** and **virtualized infra
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
-- 🎖️ AWS Academy Cloud Foundations
-- 🎖️ AWS Academy Cloud Architecting
-- 🎖️ Google Cloud Computing Foundations
-- 🎖️ SAS Data Literacy Essentials
-- 🎖️ Google Fundamentals of Digital Marketing
+- AWS Academy Cloud Foundations
+- AWS Academy Cloud Architecting
+- Google Cloud Computing Foundations
+- SAS Data Literacy Essentials
+- Google Fundamentals of Digital Marketing
 
 ---
 
-## 📦 Featured Projects
+## Featured Projects
 
 Check out my developer portfolio showcasing DevOps, cloud, and data engineering projects.
 
@@ -52,10 +52,10 @@ Check out my developer portfolio showcasing DevOps, cloud, and data engineering 
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teemurekiranta)
 [![Email](https://img.shields.io/badge/Email-Teemu.Rekiranta1%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Teemu.Rekiranta1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Rekiranta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rekiranta)
@@ -65,8 +65,8 @@ Check out my developer portfolio showcasing DevOps, cloud, and data engineering 
 ---
 
 <div align="center">
-  
-### 💡 *"Learning fast, building faster."*
+
+### *"Learning fast, building faster."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rekiranta&color=brightgreen&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/Rekiranta?label=Follow&style=social)](https://github.com/Rekiranta)
