@@ -1,283 +1,190 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Teemu%20Rekiranta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer&descSize=18&descAlignY=52"/>
+
 <div align="center">
 
-<!-- GLITCH HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=1&section=header"/>
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ████████╗███████╗███████╗███╗   ███╗██╗   ██╗    ██████╗                   ║
-║   ╚══██╔══╝██╔════╝██╔════╝████╗ ████║██║   ██║    ██╔══██╗                  ║
-║      ██║   █████╗  █████╗  ██╔████╔██║██║   ██║    ██████╔╝                  ║
-║      ██║   ██╔══╝  ██╔══╝  ██║╚██╔╝██║██║   ██║    ██╔══██╗                  ║
-║      ██║   ███████╗███████╗██║ ╚═╝ ██║╚██████╔╝    ██║  ██║                  ║
-║      ╚═╝   ╚══════╝╚══════╝╚═╝     ╚═╝ ╚═════╝     ╚═╝  ╚═╝                  ║
-║                                                                              ║
-║                    R E K I R A N T A                                         ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<a href="https://github.com/Rekiranta">
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+whoami;Cloud+%26+DevOps+Engineer+%7C+Helsinki%2C+Finland;%24+cat+status.txt;Building+infrastructure+that+scales+%E2%9A%A1" alt="Terminal Typing"/>
+<a href="https://www.linkedin.com/in/teemurekiranta">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-<br/>
-
-<!-- SYSTEM STATUS BADGES -->
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff41?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/LOCATION-HELSINKI%2C%20FI-00ff41?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=flat-square&labelColor=000000"/>
+<a href="mailto:Teemu.Rekiranta1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/Rekiranta">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/teemurekiranta"><img src="https://img.shields.io/badge/─────_LinkedIn_─────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:Teemu.Rekiranta1@gmail.com"><img src="https://img.shields.io/badge/─────_Email_─────-000000?style=for-the-badge&logo=gmail&logoColor=00ff41"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+scalable+infrastructure;Automating+everything;Learning+fast%2C+building+faster" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<!-- BOOT SEQUENCE -->
-```css
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  $ ./boot_sequence.sh                                                        │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  [████████████████████████████████████████] 100%  Loading profile...         │
-│                                                                              │
-│  ✓ Cloud platforms initialized                                               │
-│  ✓ Container orchestration ready                                             │
-│  ✓ CI/CD pipelines configured                                                │
-│  ✓ Infrastructure as Code deployed                                           │
-│  ✓ Monitoring systems active                                                 │
-│                                                                              │
-│  SYSTEM READY                                                                │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+## About Me
+
+I'm a **Junior Cloud & DevOps Engineer** based in **Helsinki, Finland**, transitioning into tech after 8+ years in fast-paced environments where I mastered process optimization and quality control.
+
+I focus on building **reliable infrastructure**, designing **CI/CD pipelines**, and creating **data solutions** that scale. I learn by doing — every project in my portfolio is a real, working system.
 
 <br/>
 
-## `> cat about.json`
-
-```json
-{
-  "name": "Teemu Rekiranta",
-  "title": "Junior Cloud & DevOps Engineer",
-  "location": "Helsinki, Finland",
-  "education": "IT Infrastructure Student",
-
-  "mission": "Building reliable, scalable infrastructure through code",
-
-  "expertise": [
-    "Cloud Architecture (AWS, GCP)",
-    "Infrastructure as Code",
-    "Container Orchestration",
-    "CI/CD Pipeline Design",
-    "Data Pipeline Engineering"
-  ],
-
-  "background": "8+ years in high-pressure environments → Process optimization expert",
-
-  "philosophy": "Learning fast, building faster."
-}
-```
-
-<br/>
-
-## `> ls -la ./skills/`
+## Tech Stack
 
 <div align="center">
 
-```
-drwxr-xr-x  infrastructure/
-drwxr-xr-x  development/
-drwxr-xr-x  devops/
-drwxr-xr-x  data/
-```
-
-</div>
-
 <table>
 <tr>
-<td width="25%" align="center">
+<td align="center" width="50%">
 
-**`/infrastructure`**
+### Cloud & Infrastructure
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/>
-<img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="GCP"/>
-
-<img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="48" height="48" alt="Terraform"/>
-<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48" height="48" alt="Kubernetes"/>
-
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/>
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux"/>
+<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/></a>
+<a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="GCP"/></a>
+<a href="https://www.terraform.io"><img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="Terraform"/></a>
+<a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes"/></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/></a>
+<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux"/></a>
 
 </td>
-<td width="25%" align="center">
+<td align="center" width="50%">
 
-**`/development`**
+### Languages & Frameworks
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI"/>
-
-<img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" height="48" alt="Flask"/>
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js"/>
-
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript"/>
-<img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash"/>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI"/></a>
+<a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask"/></a>
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript"/></a>
+<a href="https://www.gnu.org/software/bash"><img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash"/></a>
 
 </td>
-<td width="25%" align="center">
+</tr>
+<tr>
+<td align="center" width="50%">
 
-**`/devops`**
+### DevOps & CI/CD
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions"/>
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/>
-
-<img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="48" height="48" alt="Grafana"/>
-<img src="https://skillicons.dev/icons?i=prometheus&theme=dark" width="48" height="48" alt="Prometheus"/>
-
-<img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" height="48" alt="Nginx"/>
-<img src="https://skillicons.dev/icons?i=vim&theme=dark" width="48" height="48" alt="Vim"/>
+<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions"/></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/></a>
+<a href="https://grafana.com"><img src="https://skillicons.dev/icons?i=grafana" width="45" height="45" alt="Grafana"/></a>
+<a href="https://prometheus.io"><img src="https://skillicons.dev/icons?i=prometheus" width="45" height="45" alt="Prometheus"/></a>
+<a href="https://www.nginx.com"><img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="Nginx"/></a>
+<a href="https://www.ansible.com"><img src="https://skillicons.dev/icons?i=ansible" width="45" height="45" alt="Ansible"/></a>
 
 </td>
-<td width="25%" align="center">
+<td align="center" width="50%">
 
-**`/data`**
+### Databases & Streaming
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL"/>
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis"/>
-
-<img src="https://skillicons.dev/icons?i=dynamodb&theme=dark" width="48" height="48" alt="DynamoDB"/>
-<img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48" height="48" alt="Kafka"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/>
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite"/>
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/></a>
+<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis"/></a>
+<a href="https://aws.amazon.com/dynamodb"><img src="https://skillicons.dev/icons?i=dynamodb" width="45" height="45" alt="DynamoDB"/></a>
+<a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" width="45" height="45" alt="Kafka"/></a>
+<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/></a>
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/></a>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-## `> tree ./featured_projects/`
-
-<div align="center">
-
-```
-featured_projects/
-├── infrastructure-as-code/
-│   ├── terraform-k8s-blueprints-ci     ← Kubernetes + Terraform + GitHub Actions
-│   └── localstack-sqs-dynamodb-iac     ← AWS simulation with LocalStack
-├── data-engineering/
-│   ├── streaming-redpanda-postgres     ← Event streaming pipeline
-│   └── data-pipeline-elt-dbt           ← Modern ELT with dbt
-└── api-development/
-    ├── devops-ci-demo                  ← Flask + CI/CD pipeline
-    └── fastapi-redis-cache-api         ← FastAPI + Redis caching
-```
-
 </div>
 
 <br/>
 
-<div align="center">
-
-[![terraform-k8s-blueprints-ci](https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=terraform-k8s-blueprints-ci&bg_color=000000&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&border_radius=0)](https://github.com/Rekiranta/terraform-k8s-blueprints-ci)
-[![streaming-redpanda-postgres](https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=streaming-redpanda-postgres&bg_color=000000&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&border_radius=0)](https://github.com/Rekiranta/streaming-redpanda-postgres)
-
-[![data-pipeline-elt-dbt](https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=data-pipeline-elt-dbt&bg_color=000000&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&border_radius=0)](https://github.com/Rekiranta/data-pipeline-elt-dbt)
-[![localstack-sqs-dynamodb-iac](https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=localstack-sqs-dynamodb-iac&bg_color=000000&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&border_radius=0)](https://github.com/Rekiranta/localstack-sqs-dynamodb-iac)
-
-[![devops-ci-demo](https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=devops-ci-demo&bg_color=000000&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&border_radius=0)](https://github.com/Rekiranta/devops-ci-demo)
-[![fastapi-redis-cache-api](https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=fastapi-redis-cache-api&bg_color=000000&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&border_radius=0)](https://github.com/Rekiranta/fastapi-redis-cache-api)
-
-<br/>
-
-**[`> cd ../My-dev-portfolio`](https://github.com/Rekiranta/My-dev-portfolio)** → *20+ additional projects*
-
-</div>
-
-<br/>
-
-## `> ./metrics.sh`
+## Featured Projects
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rekiranta&show_icons=true&bg_color=000000&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&border_radius=0&count_private=true&hide_title=false&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rekiranta&layout=compact&bg_color=000000&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=0&langs_count=8"/>
+<a href="https://github.com/Rekiranta/terraform-k8s-blueprints-ci">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=terraform-k8s-blueprints-ci&theme=tokyonight&hide_border=true" alt="terraform-k8s-blueprints-ci"/>
+</a>
+<a href="https://github.com/Rekiranta/streaming-redpanda-postgres">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=streaming-redpanda-postgres&theme=tokyonight&hide_border=true" alt="streaming-redpanda-postgres"/>
+</a>
+
+<a href="https://github.com/Rekiranta/data-pipeline-elt-dbt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=data-pipeline-elt-dbt&theme=tokyonight&hide_border=true" alt="data-pipeline-elt-dbt"/>
+</a>
+<a href="https://github.com/Rekiranta/localstack-sqs-dynamodb-iac">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=localstack-sqs-dynamodb-iac&theme=tokyonight&hide_border=true" alt="localstack-sqs-dynamodb-iac"/>
+</a>
+
+<a href="https://github.com/Rekiranta/devops-ci-demo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=devops-ci-demo&theme=tokyonight&hide_border=true" alt="devops-ci-demo"/>
+</a>
+<a href="https://github.com/Rekiranta/fastapi-redis-cache-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=fastapi-redis-cache-api&theme=tokyonight&hide_border=true" alt="fastapi-redis-cache-api"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rekiranta&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&stroke=00ff41&border=00ff41&border_radius=0" alt="GitHub Streak"/>
+<a href="https://github.com/Rekiranta/My-dev-portfolio">
+  <img src="https://img.shields.io/badge/View_Full_Portfolio-20+_Projects-6366F1?style=for-the-badge" alt="Full Portfolio"/>
+</a>
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rekiranta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rekiranta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rekiranta&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120&hide_border=false&custom_title=Contribution%20Timeline" alt="Activity Graph"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rekiranta&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rekiranta&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 
 </div>
 
 <br/>
 
-## `> cat certifications.log`
+## Certifications
 
 <div align="center">
 
-```
-[VERIFIED] AWS Academy Cloud Foundations
-[VERIFIED] AWS Academy Cloud Architecting
-[VERIFIED] Google Cloud Computing Foundations
-[VERIFIED] SAS Data Literacy Essentials
-[VERIFIED] Google Fundamentals of Digital Marketing
-```
+<a href="https://aws.amazon.com/training/awsacademy/">
+  <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Foundations"/>
+</a>
+<a href="https://aws.amazon.com/training/awsacademy/">
+  <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Architecting"/>
+</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/AWS-Cloud_Architecting-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/GCP-Computing_Foundations-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=000000"/>
+<a href="https://cloud.google.com/training">
+  <img src="https://img.shields.io/badge/Google_Cloud-Computing_Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Computing Foundations"/>
+</a>
+<a href="https://www.sas.com/en_us/training/overview.html">
+  <img src="https://img.shields.io/badge/SAS-Data_Literacy-0066CC?style=for-the-badge&logo=sas&logoColor=white" alt="SAS Data Literacy"/>
+</a>
 
 </div>
 
 <br/>
 
-<!-- FOOTER -->
+---
+
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│                     "Learning fast, building faster."                        │
-│                                                                              │
-│   ═══════════════════════════════════════════════════════════════════════   │
-│                                                                              │
-│                          [ READY FOR NEW CHALLENGES ]                        │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+### *"Learning fast, building faster."*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rekiranta&style=flat-square&color=00ff41&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Rekiranta&style=for-the-badge&color=6366F1" alt="Profile Views"/>
 
-<br/>
+<br/><br/>
 
-```
-$ exit
-```
+<a href="https://github.com/Rekiranta?tab=followers">
+  <img src="https://img.shields.io/github/followers/Rekiranta?style=for-the-badge&color=6366F1&labelColor=1a1b27" alt="Followers"/>
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=2&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer"/>
