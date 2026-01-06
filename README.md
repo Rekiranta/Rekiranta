@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Teemu%20Rekiranta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer&descSize=18&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=180&section=header&text=Teemu%20Rekiranta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Cloud%20and%20DevOps%20Engineer&descSize=18&descAlignY=52"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/teemurekiranta">
@@ -260,4 +260,4 @@ PostgreSQL, Redis, DynamoDB, Kafka, MongoDB, MySQL
   <img src="https://komarev.com/ghpvc/?username=Rekiranta&style=flat-square&color=6366F1" alt="Profile Views"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=footer"/>
