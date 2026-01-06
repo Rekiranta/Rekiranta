@@ -6,7 +6,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20,22&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:7C3AED&height=3"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/teemurekiranta">
@@ -242,24 +242,28 @@ PostgreSQL, Redis, DynamoDB, Kafka, MongoDB, MySQL
 
 <table>
 <tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+<td align="center" width="25%">
+<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS"/></a>
 <br><br>
 <strong>Cloud Foundations</strong>
 <br>
 <em>AWS Academy</em>
+</td>
+<td align="center" width="25%">
+<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS"/></a>
 <br><br>
 <strong>Cloud Architecting</strong>
 <br>
 <em>AWS Academy</em>
 </td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+<td align="center" width="25%">
+<a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" width="50" height="50" alt="GCP"/></a>
 <br><br>
 <strong>Computing Foundations</strong>
 <br>
 <em>Google Cloud</em>
-<br><br>
+</td>
+<td align="center" width="25%">
 <img src="https://img.shields.io/badge/SAS-0066CC?style=for-the-badge&logo=sas&logoColor=white" alt="SAS"/>
 <br><br>
 <strong>Data Literacy Essentials</strong>
@@ -279,4 +283,4 @@ PostgreSQL, Redis, DynamoDB, Kafka, MongoDB, MySQL
   <img src="https://komarev.com/ghpvc/?username=Rekiranta&style=flat-square&color=6366F1" alt="Profile Views"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:7C3AED&height=3&section=footer"/>
