@@ -46,9 +46,64 @@ My focus is on **cloud platforms**, **DevOps practices** and **virtualized infra
 
 ## Featured Projects
 
-Check out my developer portfolio showcasing DevOps, cloud, and data engineering projects.
+<table>
+<tr>
+<td width="50%">
 
-**[My Developer Portfolio](https://github.com/Rekiranta/My-dev-portfolio)** - 20+ hands-on projects demonstrating CI/CD pipelines, containerization, infrastructure as code, and data pipelines.
+### [terraform-k8s-blueprints-ci](https://github.com/Rekiranta/terraform-k8s-blueprints-ci)
+Kubernetes infrastructure with Terraform and GitHub Actions CI pipeline.
+
+`Terraform` `Kubernetes` `GitHub Actions`
+
+</td>
+<td width="50%">
+
+### [streaming-redpanda-postgres](https://github.com/Rekiranta/streaming-redpanda-postgres)
+Event streaming pipeline with Redpanda (Kafka) and idempotent PostgreSQL sink.
+
+`Redpanda` `PostgreSQL` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [data-pipeline-elt-dbt](https://github.com/Rekiranta/data-pipeline-elt-dbt)
+Modern ELT pipeline with dbt transformations and Pandera data validation.
+
+`dbt` `DuckDB` `Pandera`
+
+</td>
+<td width="50%">
+
+### [localstack-sqs-dynamodb-iac](https://github.com/Rekiranta/localstack-sqs-dynamodb-iac)
+AWS SQS and DynamoDB infrastructure locally with LocalStack and Terraform.
+
+`LocalStack` `Terraform` `AWS`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [devops-ci-demo](https://github.com/Rekiranta/devops-ci-demo)
+Flask API with pytest and GitHub Actions CI/CD pipeline.
+
+`Flask` `Pytest` `GitHub Actions`
+
+</td>
+<td width="50%">
+
+### [fastapi-redis-cache-api](https://github.com/Rekiranta/fastapi-redis-cache-api)
+FastAPI REST API with Redis caching and cache-aside pattern.
+
+`FastAPI` `Redis` `Pytest`
+
+</td>
+</tr>
+</table>
+
+**[View All Projects](https://github.com/Rekiranta/My-dev-portfolio)** - Full portfolio with 20+ additional projects
 
 ---
 
