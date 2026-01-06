@@ -30,68 +30,41 @@ I focus on building **reliable infrastructure**, designing **CI/CD pipelines**, 
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**Cloud & Infrastructure**
 
-### Cloud & Infrastructure
+<a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
+<a href="https://cloud.google.com"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/></a>
+<a href="https://www.terraform.io"><img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
+<a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
 
-| | Technology |
-|:--:|:--|
-| <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/></a> | **AWS** |
-| <a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" width="40" height="40"/></a> | **Google Cloud** |
-| <a href="https://www.terraform.io"><img src="https://skillicons.dev/icons?i=terraform" width="40" height="40"/></a> | **Terraform** |
-| <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/></a> | **Kubernetes** |
-| <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a> | **Docker** |
-| <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a> | **Linux** |
+**Languages & Frameworks**
 
-</td>
-<td valign="top" width="50%">
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
+<a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+<a href="https://www.gnu.org/software/bash"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/></a>
 
-### Languages & Frameworks
+**DevOps & CI/CD**
 
-| | Technology |
-|:--:|:--|
-| <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a> | **Python** |
-| <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40"/></a> | **FastAPI** |
-| <a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40"/></a> | **Flask** |
-| <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a> | **Node.js** |
-| <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a> | **TypeScript** |
-| <a href="https://www.gnu.org/software/bash"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/></a> | **Bash** |
+<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<a href="https://grafana.com"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
+<a href="https://prometheus.io"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
+<a href="https://www.nginx.com"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
+<a href="https://www.ansible.com"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+**Databases & Streaming**
 
-### DevOps & CI/CD
-
-| | Technology |
-|:--:|:--|
-| <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40"/></a> | **GitHub Actions** |
-| <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a> | **Git** |
-| <a href="https://grafana.com"><img src="https://skillicons.dev/icons?i=grafana" width="40" height="40"/></a> | **Grafana** |
-| <a href="https://prometheus.io"><img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40"/></a> | **Prometheus** |
-| <a href="https://www.nginx.com"><img src="https://skillicons.dev/icons?i=nginx" width="40" height="40"/></a> | **Nginx** |
-| <a href="https://www.ansible.com"><img src="https://skillicons.dev/icons?i=ansible" width="40" height="40"/></a> | **Ansible** |
-
-</td>
-<td valign="top" width="50%">
-
-### Databases & Streaming
-
-| | Technology |
-|:--:|:--|
-| <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></a> | **PostgreSQL** |
-| <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/></a> | **Redis** |
-| <a href="https://aws.amazon.com/dynamodb"><img src="https://skillicons.dev/icons?i=dynamodb" width="40" height="40"/></a> | **DynamoDB** |
-| <a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" width="40" height="40"/></a> | **Kafka** |
-| <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a> | **MongoDB** |
-| <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/></a> | **MySQL** |
-
-</td>
-</tr>
-</table>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+<a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
+<a href="https://aws.amazon.com/dynamodb"><img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/></a>
+<a href="https://kafka.apache.org"><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/></a>
+<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
 
 <br/>
 
@@ -239,16 +212,6 @@ I focus on building **reliable infrastructure**, designing **CI/CD pipelines**, 
 <a href="https://github.com/Rekiranta/My-dev-portfolio">
   <img src="https://img.shields.io/badge/View_Full_Portfolio-20+_Projects-6366F1?style=for-the-badge" alt="Full Portfolio"/>
 </a>
-
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rekiranta&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
