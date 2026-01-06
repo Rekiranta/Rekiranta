@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=180&section=header&text=Teemu%20Rekiranta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Cloud%20and%20DevOps%20Engineer&descSize=18&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=180&section=header&text=Teemu%20Rekiranta&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Cloud%20and%20DevOps%20Engineer&descSize=18&descAlignY=52"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/teemurekiranta">
@@ -232,23 +232,12 @@ PostgreSQL, Redis, DynamoDB, Kafka, MongoDB, MySQL
 
 ## Certifications
 
-<p align="center">
-  <a href="https://aws.amazon.com/training/awsacademy/">
-    <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Foundations"/>
-  </a>
-  <a href="https://aws.amazon.com/training/awsacademy/">
-    <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Architecting"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://cloud.google.com/training">
-    <img src="https://img.shields.io/badge/Google_Cloud-Computing_Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Computing Foundations"/>
-  </a>
-  <a href="https://www.sas.com/en_us/training/overview.html">
-    <img src="https://img.shields.io/badge/SAS-Data_Literacy-0066CC?style=for-the-badge&logo=sas&logoColor=white" alt="SAS Data Literacy"/>
-  </a>
-</p>
+| Certification | Provider |
+|:--------------|:---------|
+| Cloud Foundations | AWS Academy |
+| Cloud Architecting | AWS Academy |
+| Computing Foundations | Google Cloud |
+| Data Literacy Essentials | SAS |
 
 ---
 
