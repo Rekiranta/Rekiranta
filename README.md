@@ -1,8 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:4F46E5,50:6366F1,100:7C3AED&height=200&section=header&text=Teemu%20Rekiranta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20and%20DevOps%20Engineer&descSize=20&descAlignY=55&stroke=ffffff&strokeWidth=1"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+Cloud+Infrastructure;Automating+Everything;Helsinki%2C+Finland" alt="Typing SVG" />
-</p>
+# Teemu Rekiranta
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;Building+Scalable+Infrastructure;Automating+Everything;Helsinki%2C+Finland" alt="Typing SVG" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20,22&height=2"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/teemurekiranta">
@@ -236,22 +240,34 @@ PostgreSQL, Redis, DynamoDB, Kafka, MongoDB, MySQL
 
 ## Certifications
 
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Foundations"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Architecting"/>
-  </a>
-</p>
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Google_Cloud-Computing_Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1a2e" alt="Google Cloud Computing Foundations"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/SAS-Data_Literacy_Essentials-0066CC?style=for-the-badge&logo=sas&logoColor=white&labelColor=1a1a2e" alt="SAS Data Literacy"/>
-  </a>
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+<br><br>
+<strong>Cloud Foundations</strong>
+<br>
+<em>AWS Academy</em>
+<br><br>
+<strong>Cloud Architecting</strong>
+<br>
+<em>AWS Academy</em>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+<br><br>
+<strong>Computing Foundations</strong>
+<br>
+<em>Google Cloud</em>
+<br><br>
+<img src="https://img.shields.io/badge/SAS-0066CC?style=for-the-badge&logo=sas&logoColor=white" alt="SAS"/>
+<br><br>
+<strong>Data Literacy Essentials</strong>
+<br>
+<em>SAS</em>
+</td>
+</tr>
+</table>
 
 ---
 
