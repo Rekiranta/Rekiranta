@@ -24,7 +24,7 @@
 
 I'm a **Junior Cloud & DevOps Engineer** based in **Helsinki, Finland**, transitioning into tech after 8+ years in fast-paced environments where I mastered process optimization and quality control.
 
-I focus on building **reliable infrastructure**, designing **CI/CD pipelines**, and creating **data solutions** that scale. I learn by doing — every project in my portfolio is a real, working system.
+I focus on building **reliable infrastructure**, designing **CI/CD pipelines**, and creating **data solutions** that scale. I learn by doing and every project in my portfolio is a real, working system.
 
 <br/>
 
@@ -93,30 +93,18 @@ I focus on building **reliable infrastructure**, designing **CI/CD pipelines**, 
 
 ## Featured Projects
 
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [terraform-k8s-blueprints-ci](https://github.com/Rekiranta/terraform-k8s-blueprints-ci) | Kubernetes infrastructure with Terraform and GitHub Actions CI | `Terraform` `Kubernetes` `GitHub Actions` |
+| [streaming-redpanda-postgres](https://github.com/Rekiranta/streaming-redpanda-postgres) | Event streaming pipeline with idempotent PostgreSQL sink | `Redpanda` `PostgreSQL` `Python` |
+| [data-pipeline-elt-dbt](https://github.com/Rekiranta/data-pipeline-elt-dbt) | Modern ELT pipeline with dbt and data validation | `dbt` `DuckDB` `Pandera` |
+| [localstack-sqs-dynamodb-iac](https://github.com/Rekiranta/localstack-sqs-dynamodb-iac) | AWS SQS and DynamoDB with LocalStack and Terraform | `LocalStack` `Terraform` `AWS` |
+| [devops-ci-demo](https://github.com/Rekiranta/devops-ci-demo) | Flask API with pytest and GitHub Actions CI/CD | `Flask` `Pytest` `GitHub Actions` |
+| [fastapi-redis-cache-api](https://github.com/Rekiranta/fastapi-redis-cache-api) | REST API with Redis caching and cache-aside pattern | `FastAPI` `Redis` `Docker` |
+
 <div align="center">
 
-<a href="https://github.com/Rekiranta/terraform-k8s-blueprints-ci">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=terraform-k8s-blueprints-ci&theme=tokyonight&hide_border=true" alt="terraform-k8s-blueprints-ci"/>
-</a>
-<a href="https://github.com/Rekiranta/streaming-redpanda-postgres">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=streaming-redpanda-postgres&theme=tokyonight&hide_border=true" alt="streaming-redpanda-postgres"/>
-</a>
-
-<a href="https://github.com/Rekiranta/data-pipeline-elt-dbt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=data-pipeline-elt-dbt&theme=tokyonight&hide_border=true" alt="data-pipeline-elt-dbt"/>
-</a>
-<a href="https://github.com/Rekiranta/localstack-sqs-dynamodb-iac">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=localstack-sqs-dynamodb-iac&theme=tokyonight&hide_border=true" alt="localstack-sqs-dynamodb-iac"/>
-</a>
-
-<a href="https://github.com/Rekiranta/devops-ci-demo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=devops-ci-demo&theme=tokyonight&hide_border=true" alt="devops-ci-demo"/>
-</a>
-<a href="https://github.com/Rekiranta/fastapi-redis-cache-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekiranta&repo=fastapi-redis-cache-api&theme=tokyonight&hide_border=true" alt="fastapi-redis-cache-api"/>
-</a>
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Rekiranta/My-dev-portfolio">
   <img src="https://img.shields.io/badge/View_Full_Portfolio-20+_Projects-6366F1?style=for-the-badge" alt="Full Portfolio"/>
@@ -130,16 +118,7 @@ I focus on building **reliable infrastructure**, designing **CI/CD pipelines**, 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rekiranta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rekiranta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rekiranta&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rekiranta&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 
 </div>
 
