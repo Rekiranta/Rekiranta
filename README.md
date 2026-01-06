@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=180&section=header&text=Teemu%20Rekiranta&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Cloud%20and%20DevOps%20Engineer&descSize=18&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:4F46E5,50:6366F1,100:7C3AED&height=200&section=header&text=Teemu%20Rekiranta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20and%20DevOps%20Engineer&descSize=20&descAlignY=55&stroke=ffffff&strokeWidth=1"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+Cloud+Infrastructure;Automating+Everything;Helsinki%2C+Finland" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/teemurekiranta">
@@ -232,12 +236,22 @@ PostgreSQL, Redis, DynamoDB, Kafka, MongoDB, MySQL
 
 ## Certifications
 
-| Certification | Provider |
-|:--------------|:---------|
-| Cloud Foundations | AWS Academy |
-| Cloud Architecting | AWS Academy |
-| Computing Foundations | Google Cloud |
-| Data Literacy Essentials | SAS |
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Foundations"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Architecting"/>
+  </a>
+</p>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Google_Cloud-Computing_Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1a2e" alt="Google Cloud Computing Foundations"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/SAS-Data_Literacy_Essentials-0066CC?style=for-the-badge&logo=sas&logoColor=white&labelColor=1a1a2e" alt="SAS Data Literacy"/>
+  </a>
+</p>
 
 ---
 
